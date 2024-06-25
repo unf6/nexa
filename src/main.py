@@ -4,7 +4,7 @@ import selenium
 from sys import *
 from modules.funcs.console import *
 from modules.funcs.menus import *
-from modules import files, license, cors, rfi, rce, clickjacking, open_r, dom_xss, re_xss, sqli, ssrf, ssltls, xxe, tech, subfinder
+from modules import files, cors, rfi, rce, clickjacking, open_r, dom_xss, re_xss, sqli, ssrf, ssltls, xxe, tech, subfinder
 from colorama import Fore, Style
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
