@@ -41,6 +41,17 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
+## 🖼 Previews:
+
+<p align="center">
+  <a href="https://github.com/unf6/nexa">
+    <img src="assets/help.png" alt="Nexa">
+  </a>
+  <p align="center">
+  <a href="https://github.com/unf6/nexa">
+    <img src="assets/scanners.png" alt="Nexa">
+  </a>
+
 ## 📜 Contributing
 
 Thank you for your interest in contributing to Nexa! Here are some guidelines to follow when contributing:
